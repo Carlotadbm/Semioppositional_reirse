@@ -1,0 +1,13 @@
+term	estimate	std.error	statistic	p.value	conf.low	conf.high
+(Intercept)	0.211	0.894	0.237	0.813	-1.536	1.979
+Objectde	-7.447	1.901	-3.918	0	-11.294	-3.784
+Objectcon	-9.687	3.337	-2.903	0.004	-16.87	-3.52
+Verbal_formnon_finite	-0.693	1.238	-0.56	0.576	-3.132	1.726
+Subjectinanimate	3.874	2.721	1.424	0.155	-1.474	9.334
+Subjectimpersonal	-9.888	4.788	-2.065	0.039	-21.696	-1.954
+Year	0	0	0.047	0.962	-0.001	0.001
+Objectde:Year	0.006	0.001	5.297	0	0.004	0.008
+Objectcon:Year	0.006	0.002	3.137	0.002	0.002	0.009
+Verbal_formnon_finite:Year	-0	0.001	-0.098	0.922	-0.001	0.001
+Subjectinanimate:Year	-0.003	0.002	-1.763	0.078	-0.006	0
+Subjectimpersonal:Year	0.005	0.002	1.957	0.05	0.001	0.011
